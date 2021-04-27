@@ -64,7 +64,7 @@ Heres A Screenshot Of The Modified Part Of The Site</p>
 <p>ㅤ</p>
 <p>- Added Link To "sitechangelogs.techg4mer.com" In Main Site (techg4mer.com)</p>
 <p>- sitechangelogs.techg4mer.com now uses HTTPS</p>
-<p>- </p>
+<p>- Added Info About Unlocking Maps in "minigames.techg4mer.com"</p>
 
 <p>ㅤ</p>
 
