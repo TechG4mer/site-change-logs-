@@ -58,8 +58,181 @@ Heres A Screenshot Of The Modified Part Of The Site</p>
 <p>- Created sitechangelogs.techg4mer.com</p>
 <p>- Finished sitechangelogs.techg4mer.com for now
 
+<p>ㅤ</p>
 
+<p style="text-decoration:underline;">27/04/2021 -</p>
+<p>ㅤ</p>
+<p>- Added Link To "sitechangelogs.techg4mer.com" In Main Site (techg4mer.com)</p>
+<p>- sitechangelogs.techg4mer.com now uses HTTPS</p>
+<p>- </p>
 
+<p>ㅤ</p>
+
+<p style="text-decoration:underline;">28/04/2021 -</p>
+<p>ㅤ</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+
+<p>ㅤ</p>
+
+<p style="text-decoration:underline;">29/04/2021 -</p>
+<p>ㅤ</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+
+<p>ㅤ</p>
+
+<p style="text-decoration:underline;">30/04/2021 -</p>
+<p>ㅤ</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+
+<p>ㅤ</p>
+
+<p style="text-decoration:underline;">27/04/2021 -</p>
+<p>ㅤ</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+
+<p>ㅤ</p>
+
+<p style="text-decoration:underline;">01/05/2021 -</p>
+<p>ㅤ</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+
+<p>ㅤ</p>
+
+<p style="text-decoration:underline;">02/05/2021 -</p>
+<p>ㅤ</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+
+<p>ㅤ</p>
+
+<p style="text-decoration:underline;">03/05/2021 -</p>
+<p>ㅤ</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+
+<p>ㅤ</p>
+
+<p style="text-decoration:underline;">04/05/2021 -</p>
+<p>ㅤ</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+
+<p>ㅤ</p>
+
+<p style="text-decoration:underline;">05/05/2021 -</p>
+<p>ㅤ</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+
+<p>ㅤ</p>
+
+<p style="text-decoration:underline;">06/05/2021 -</p>
+<p>ㅤ</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+
+<p>ㅤ</p>
+
+<p style="text-decoration:underline;">07/05/2021 -</p>
+<p>ㅤ</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+
+<p>ㅤ</p>
+
+<p style="text-decoration:underline;">08/05/2021 -</p>
+<p>ㅤ</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+
+<p>ㅤ</p>
+
+<p style="text-decoration:underline;">09/05/2021 -</p>
+<p>ㅤ</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+
+<p>ㅤ</p>
+
+<p style="text-decoration:underline;">10/05/2021 -</p>
+<p>ㅤ</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+
+<p>ㅤ</p>
+
+<p style="text-decoration:underline;">11/05/2021 -</p>
+<p>ㅤ</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+
+<p>ㅤ</p>
+
+<p style="text-decoration:underline;">12/05/2021 -</p>
+<p>ㅤ</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+
+<p>ㅤ</p>
+
+<p style="text-decoration:underline;">13/05/2021 -</p>
+<p>ㅤ</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+
+<p>ㅤ</p>
+
+<p style="text-decoration:underline;">14/05/2021 -</p>
+<p>ㅤ</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+
+<p>ㅤ</p>
+
+<p style="text-decoration:underline;">15/05/2021 -</p>
+<p>ㅤ</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+
+<p>ㅤ</p>
+
+<p style="text-decoration:underline;">16/05/2021 -</p>
+<p>ㅤ</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+
+<p>ㅤ</p>
+
+<p style="text-decoration:underline;">17/05/2021 -</p>
+<p>ㅤ</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
 
 
 
