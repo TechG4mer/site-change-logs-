@@ -70,17 +70,13 @@ Heres A Screenshot Of The Modified Part Of The Site</p>
 
 <p style="text-decoration:underline;">28/04/2021 -</p>
 <p>ㅤ</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
+<p>- Nothing</p>
 
 <p>ㅤ</p>
 
 <p style="text-decoration:underline;">29/04/2021 -</p>
 <p>ㅤ</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
+<p>- Nothing</p>
 
 <p>ㅤ</p>
 
