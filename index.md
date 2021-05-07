@@ -46,12 +46,6 @@ Heres A Screenshot Of The Modified Part Of The Site</p>
 
 <p>ㅤ</p>
 
-<p style="text-decoration:underline;">25/04/2021 -</p>
-<p>ㅤ</p>
-<p>- (Sadly No Changes)</p>
-  
-<p>ㅤ</p>
-
 <p style="text-decoration:underline;">26/04/2021 -</p>
 <p>ㅤ</p>
 <p>- Started On sitechangelogs.techg4mer.com</p>
@@ -68,85 +62,9 @@ Heres A Screenshot Of The Modified Part Of The Site</p>
 
 <p>ㅤ</p>
 
-<p style="text-decoration:underline;">28/04/2021 -</p>
-<p>ㅤ</p>
-<p>- Nothing</p>
-
-<p>ㅤ</p>
-
-<p style="text-decoration:underline;">29/04/2021 -</p>
-<p>ㅤ</p>
-<p>- Nothing</p>
-
-<p>ㅤ</p>
-
-<p style="text-decoration:underline;">30/04/2021 -</p>
-<p>ㅤ</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-
-<p>ㅤ</p>
-
-<p style="text-decoration:underline;">27/04/2021 -</p>
-<p>ㅤ</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-
-<p>ㅤ</p>
-
-<p style="text-decoration:underline;">01/05/2021 -</p>
-<p>ㅤ</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-
-<p>ㅤ</p>
-
-<p style="text-decoration:underline;">02/05/2021 -</p>
-<p>ㅤ</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-
-<p>ㅤ</p>
-
-<p style="text-decoration:underline;">03/05/2021 -</p>
-<p>ㅤ</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-
-<p>ㅤ</p>
-
-<p style="text-decoration:underline;">04/05/2021 -</p>
-<p>ㅤ</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-
-<p>ㅤ</p>
-
-<p style="text-decoration:underline;">05/05/2021 -</p>
-<p>ㅤ</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-
-<p>ㅤ</p>
-
-<p style="text-decoration:underline;">06/05/2021 -</p>
-<p>ㅤ</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-
-<p>ㅤ</p>
-
 <p style="text-decoration:underline;">07/05/2021 -</p>
 <p>ㅤ</p>
-<p>-</p>
+<p>- removed The Dates Where I Didnt Make Any changes To The Sites On This Site</p>
 <p>-</p>
 <p>-</p>
 
