@@ -65,14 +65,12 @@ Heres A Screenshot Of The Modified Part Of The Site</p>
 <p style="text-decoration:underline;">07/05/2021 -</p>
 <p>ㅤ</p>
 <p>- removed The Dates Where I Didnt Make Any changes To The Sites On This Site</p>
-<p>-</p>
-<p>-</p>
 
 <p>ㅤ</p>
 
-<p style="text-decoration:underline;">08/05/2021 -</p>
+<p style="text-decoration:underline;">22/05/2021 -</p>
 <p>ㅤ</p>
-<p>-</p>
+<p>-Changed Main Discord Link To https://discord.gg/Xsw8qQUHYG so it would direct you to the new server</p>
 <p>-</p>
 <p>-</p>
 
