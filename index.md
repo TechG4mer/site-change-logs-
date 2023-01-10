@@ -76,75 +76,13 @@ Heres A Screenshot Of The Modified Part Of The Site</p>
 
 <p>ㅤ</p>
 
-<p style="text-decoration:underline;">09/05/2021 -</p>
+<p style="text-decoration:underline;">01/09/2021 - 10/01/2023 -</p>
 <p>ㅤ</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
+<p>-New Design For Site</p>
+<p>-<a href="http://telknet.me/">Minecraft Server Page</a></p>
+<p>-Contact Info Page</p>
+<p>-DarkMode</p>
 
-<p>ㅤ</p>
-
-<p style="text-decoration:underline;">10/05/2021 -</p>
-<p>ㅤ</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-
-<p>ㅤ</p>
-
-<p style="text-decoration:underline;">11/05/2021 -</p>
-<p>ㅤ</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-
-<p>ㅤ</p>
-
-<p style="text-decoration:underline;">12/05/2021 -</p>
-<p>ㅤ</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-
-<p>ㅤ</p>
-
-<p style="text-decoration:underline;">13/05/2021 -</p>
-<p>ㅤ</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-
-<p>ㅤ</p>
-
-<p style="text-decoration:underline;">14/05/2021 -</p>
-<p>ㅤ</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-
-<p>ㅤ</p>
-
-<p style="text-decoration:underline;">15/05/2021 -</p>
-<p>ㅤ</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-
-<p>ㅤ</p>
-
-<p style="text-decoration:underline;">16/05/2021 -</p>
-<p>ㅤ</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-
-<p>ㅤ</p>
-
-<p style="text-decoration:underline;">17/05/2021 -</p>
-<p>ㅤ</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
 
 
 
